@@ -9,6 +9,3 @@ console.log("Bem vindo ao meu sistema "+nome+", que tem a cor favorita "+corFavo
 console.log("Quem tem o filme favorito chamado "+filmeFavorito);
 console.log("Que mora na cidade "+cidade);
 console.log("Que tem o animal de estimação chamado: "+animalEstimacao);
-
-
-
